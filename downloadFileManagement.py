@@ -2,7 +2,7 @@
 import os
 import shutil
 
-#replace locations for windows with appropriate ones
+# replace locations for windows with appropriate ones
 
 x = input("Enter your PC username ")
 
