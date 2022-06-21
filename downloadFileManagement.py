@@ -1,3 +1,4 @@
+# current version only works with linux
 import os
 import shutil
 
