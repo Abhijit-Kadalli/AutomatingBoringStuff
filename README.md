@@ -1,5 +1,5 @@
 # AutomatingBoringStuff
-python codes to automate mundane stuff 
+codes to automate mundane stuff 
 
 ## Download file management system
 Seprates the downloaded files into 4 categories audio, image, video and documents
